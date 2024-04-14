@@ -16,7 +16,7 @@ public class FilterController {
     private FilterRepository airportFilterRepository;
 
     @PostMapping("/api/v0/airports/filter")
-    public List<Object> filterAirports(@RequestBody AirportFilter airportFilter, @RequestBody boolean countryAsRoot) {
+    public List<?> filterAirports(@RequestBody AirportFilter airportFilter, @RequestBody boolean countryAsRoot) {
         if (countryAsRoot) {
             return airportFilterRepository.formatResponseWithCountryAsRoot(airportFilter);
         } else {
