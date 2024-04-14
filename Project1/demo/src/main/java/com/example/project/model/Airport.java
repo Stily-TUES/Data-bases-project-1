@@ -1,3 +1,4 @@
+package com.example.project.model;
 import jakarta.persistence.*;
 import org.hibernate.proxy.HibernateProxy;
 

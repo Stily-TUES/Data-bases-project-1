@@ -1,6 +1,6 @@
 package com.example.project.repositories;
 
-import com.viki.baziproject1.models.City;
+import com.example.project.model.City;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
