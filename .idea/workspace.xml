@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e19154f9-9297-42d6-9c25-f117ba30c841" name="Changes" comment="minor optimisations" />
+    <list default="true" id="e19154f9-9297-42d6-9c25-f117ba30c841" name="Changes" comment="minor optimisations">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,18 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JavaMethodFindUsagesOptions.isImplementingMethods": "true",
-    "JavaMethodFindUsagesOptions.isSearchForTextOccurrences": "true",
-    "Maven.Unnamed.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/stili/Desktop/Codes/Бази Данни/Data-bases-project-1/Project1/demo",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaMethodFindUsagesOptions.isImplementingMethods&quot;: &quot;true&quot;,
+    &quot;JavaMethodFindUsagesOptions.isSearchForTextOccurrences&quot;: &quot;true&quot;,
+    &quot;Maven.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/stili/Desktop/Codes/Бази Данни/Data-bases-project-1/Project1/demo&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\stili\Desktop\Codes\Бази Данни\Data-bases-project-1\Project1\demo\src\main\java\com\example\project\utils" />
@@ -140,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713109977071</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="minor optimisations">
+      <option name="closed" value="true" />
+      <created>1713110249062</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713110249062</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
